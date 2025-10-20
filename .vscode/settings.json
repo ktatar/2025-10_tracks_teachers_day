@@ -1,0 +1,7 @@
+{
+"editor.wordWrap": "on",
+"files.autoSave": "afterDelay",
+"markdown.marp.themes": [
+    "./my_theme.css"
+]
+}
