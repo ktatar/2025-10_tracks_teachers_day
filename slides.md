@@ -1,6 +1,7 @@
 ---
 marp: true
 theme: my_theme
+math: katex
 paginate: true
 
 ---
