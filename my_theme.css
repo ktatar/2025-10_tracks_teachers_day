@@ -46,21 +46,38 @@ h1 {
   color:rgba(78, 78, 80, 0.814);
   padding-bottom: 2mm;
   margin-bottom: 12mm;
+  font-weight: 300;
+  font-family: 'IBM Plex Mono Light', monospace;
 }
 
-h2 strong {
-  color: rgb(24, 24, 24);
+h2 {
+  font-weight: 400;
 }
 
+h3 {
+  font-weight: 300;
+}
 p {
-  font-size: 12pt;
-  font-weight: 600;
+  font-size: 14pt;
+  font-weight: 400;
+  font-family: 'Space Mono', monospace;
 }
 
-td, th {
-  font-size: 16px; /* Set the font size to 16 pixels */
-  font-weight: 600;
+table, tr, td, th {
+
+  font-size: 18px; 
+  font-weight: 400;
+  font-family: 'Space Mono', monospace;
+  /* border: 0 !important; */
+}
+
+section.no_border{
+  td, th {
+  font-size: 18px; /* Set the font size to 16 pixels */
+  font-weight: 400;
+  font-family: 'Space Mono', monospace;
   border: 0 !important;
+  }
 }
 
 section.titlepage .title {

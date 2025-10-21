@@ -22,41 +22,220 @@ paginate: true
 
 ---
 
-# The Intersection of Art and AI
+# Course Structure 
 
-
-|![width:600px](prototyping.png "Creative Coding" ) |  ![width:600px](prototyping.png "Creative Coding" ) |  ![width:600px](prototyping.png "Creative Coding" ) |  ![width:600px](prototyping.png "Creative Coding" ) | 
-|:--:|:--:|:--:|:--:|
-| Creative Coding | Machine Learning for Image, Visuals, Sound, and Music | Physical Computing with Sensors and Electronics | Prototyping |
+| Activities  |  |  | | |
+|:---|---|---|---|---|
+| **Lectures** | Introduction to Art and Technology | Introduction to AI and ML | Creativity, Group work, and Tools for Innovation |
+| **Tutorials** | Creative Coding with Sound (PureData) | Multimedia Design with TouchDesigner | Deep Learning for Multimedia | Interactive ML with Physical Computing |
+| **Project** |Project Proposal| Design Iterations | Final Prototype | Reflections |
 
 ---
 
-# Hands-on Experiences with AI and ML Tools
+# Example Artworks from Students
 
+---
 
-| ML for Content Generation | Compute Clusters | Interactive Machine Learning | 
+## A Walk in the Park (2024)
 
---- 
+![bg right](park-title.JPG)
+
+<video controls src="park-mov.MP4" title="Title"></video>
+
+---
+
+## Waves of Despair (2024)
+
+![bg left](despair-title.JPG)
+
+<video controls src="despair-mov.MP4" title="Title"></video>
+
+---
+
+## Gaze (2025)
+
+![bg right width:110%](gaze-title.JPG)
+
+https://www.linkedin.com/posts/k%C4%B1van%C3%A7-tatar-09621262_aiart-generativeai-identityandperception-activity-7360604433321201665-bBdJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0zlvIBD7HWFlTIDwzd12v4Ojeg1987kM0
+
+---
 
 # Pedagogy Methods Applied in TRA 385
 
-| Project-based Learning | Studio-based Learning | Peer-to-peer Learning | 
+![bg left:40% width:500px](elt.png "Experiential Learning Theory" )
 
----
-<!-- _class: tat -->
-
-# Student Profile 
-
-| M2| TMH |
+|Theory| Methods |
 |---|---|
-| IxD | DSAI |
+| Experiential Learning Theory [1] | Studio-based Learning, Project-based Learning, Peer-to-peer Learning, Critical Reflections |
+
+<br/>
+<br/>
+
+<p style="font-size:12px;"> [1] Kolb, David A., Richard E. Boyatzis, and Charalampos Mainemelis (2001). “Experiential Learning Theory: Previous Research and New Directions”. In: Perspectives on Thinking, Learning, and Cognitive Styles. Num Pages: 21. Routledge. isbn: 978-1-4106-0598-6. </p>
 
 ---
 
-# ToDos
+## Studio-Based Learning (2024)
 
-- Introduction and background of the course
-- Which type of participants do you have - what different backgrounds do they have?
-- How do you work to support the interdisciplinary work within student groups?
-- What feedback have you recieved from the students?
-- Will you make any changes for the next round of the course?
+![bg left](fuse.jpg)
+
+- A space for group work
+- Mobile workstations
+- A physical course space
+- A digital course for out of curriculum knowledge exchanges
+
+---
+
+## Studio-Based Learning (2026)
+
+- Lecture halls
+- Specific rooms for tutorials
+- A digital workspace for out of curriculum knowledge exchanges
+- Group rooms for group works
+
+---
+
+## Project-Based Learning
+
+- Introductions to Design tools for ideation, project management, etc. 
+- Supervision sessions
+- Project proposal and mid-project reporting
+
+---
+
+## Peer-to-Peer Learning and Groupwork
+
+- Student Profiles
+- Group Forming
+- Comments from the students
+
+---
+
+### Student Profile - Educational Backgrounds
+
+<br/>
+
+| 2024 |2025 |
+|---|---|
+|  Software Engineering And Technology MPSOF, Entrepreneurship And Business Design, MPBDP, Applied Mechanics MPAME, Data Science And Ai MPDSC, Physics MPPHS, Interaction design, MPIDE, Alumni | Architecture and Urban Design, Industrial Design Engineering MPDES, Systems, control and mechatronics, Sound and Vibration, Electrical Engineering - TKELT, B.Sc., Mechanical Engineering, Microsystem Integration Technology, MTMAS, Entrepreneurship and Business Design, MPBDP, Alumni |
+
+---
+
+### Student Profile - Countries-lived
+
+<br/>
+
+*Countries that you have lived in, including your country of origin, in the format [Country]-[number of months/years lived there], such as Sweden-22 years, South Korea-3 years*
+
+| 2024 | 2025 |
+|---|---|
+| Iraq, Turkey, Sweden, Germany, United Kingdom, Norway, United States, France, Lithuania, Pakistan | Germany, Netherlands, China, Mexico, Sweden, Croatia, Austria |
+
+---
+
+### Student Profile - Gender
+
+<br/>
+
+*Gender (optional; if provided, we will use this information to try forming groups with the aim that you are not the only person with this gender in your group)*
+
+| 2024 | 2025 |
+|---|---|
+| 2 "woman", 7 "female", 1 non-binary, 6 "male"   | 6 "male", 5 "female", one unanswered |
+
+---
+
+### Group Forming
+
+- Teams of 4-5 people
+- Team forming
+  - Teachers form teams
+  - Diversity in group forming
+  - Interdisciplinarity
+  - A teamwork agreement
+  - Introductions to conflict management
+
+---
+
+### Comments from Students - Group work
+
+<br>
+
+*Groups worked well although they were somewhat random, maybe having a chance to form
+groups on the first day instead of having them pre-determined would have worked better*
+
+<br>
+
+*The groupwork worked pretty well! The first contract at the beginning of the course
+felt a bit strange but was very nice to have as a backup! Though there were some
+communciation issues within our group, in general the teamwork went great and we
+really bonded together! I think I have made some friends for life here :)*
+
+<br>
+
+*Cooperation worked well in the end, during the course there were some difficulties,
+but we got through it. I think that one of the problems was that a lot of things were
+new for us Erasmus students so it was hard to do time management and adjust the
+scope of the project accordingly*
+
+---
+
+### Comments from Students - Learning Environment
+
+<br>
+
+*There was a very nice and a bit more informal setting that worked really well for
+inviting me to ask questions or feel appreciated for my input. In general all teachers
+were really positive about everything and that kept us going even if we were more
+insecure.*
+
+<br>
+
+*I felt very welcome to learn and I think the environment was very open and welcom-
+ing in general! Thanks for that :)*
+
+---
+
+### Comments from Students - Project-based Learning
+
+<br>
+
+*The main project and excitement building up to the final presentations was really
+nice and good to have*
+
+<br>
+
+*I very much liked the theme of the course, the open nature of the projects and the
+amount of resources that were available to us.*
+
+<br>
+
+*I like the project assignment system a lot*
+
+<br>
+
+*Everything was very well communicated and the Canvas page for this course worked
+a lot better than for some of my other courses :)*
+
+---
+
+### Comments from Students - A Memorable Experience
+
+<br>
+
+*I think I have made some friends for life here :)*
+
+<br>
+
+*This has been the most inclusive course I’ve ever taken at Chalmers! All to-dos on diversity and inclusion have made me think and reflect on problems I knew nothing about before. Include that to everyone*
+
+<br>
+
+*I had a lot of fun during this course, I also learned a lot and really feel like this was
+a course that made my exchange semester more meaningful!*
+
+---
+
+# Thank You!
+
+## Questions?
