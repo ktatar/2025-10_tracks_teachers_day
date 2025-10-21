@@ -9,12 +9,11 @@ paginate: true
 
 # TRA 385 Machine Learning and AI through Artistic Innovation
 
-![bg opacity:30% ](tra-385.webp) 
+![bg opacity:30% ](tra-385.webp)
 
 ---
 
 # What is TRA 385?
-
 
 - The Intersection of Art and AI
 - Hands-on Experiences with ML and AI tools 
