@@ -68,6 +68,7 @@ paginate: true
 | Experiential Learning Theory [1] | Studio-based Learning, Project-based Learning, Peer-to-peer Learning, Critical Reflections |
 
 <br/>
+
 <br/>
 
 <p style="font-size:12px;"> [1] Kolb, David A., Richard E. Boyatzis, and Charalampos Mainemelis (2001). “Experiential Learning Theory: Previous Research and New Directions”. In: Perspectives on Thinking, Learning, and Cognitive Styles. Num Pages: 21. Routledge. isbn: 978-1-4106-0598-6. </p>
