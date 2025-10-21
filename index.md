@@ -55,7 +55,7 @@ paginate: true
 
 ![bg right width:110%](gaze-title.JPG)
 
-<video controls src="gaze-mov.MP4" width="400"></video>
+<video controls src="gaze-mov.mp4" width="400"></video>
 
 ---
 
