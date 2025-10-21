@@ -40,7 +40,7 @@ paginate: true
 
 ![bg right](park-title.JPG)
 
-<video controls src="park-mov.MP4" title="Title"></video>
+<video controls src="park-mov.MP4" width="400"></video>
 
 ---
 
@@ -48,7 +48,7 @@ paginate: true
 
 ![bg left](despair-title.JPG)
 
-<video controls src="despair-mov.MP4" title="Title"></video>
+<video controls src="despair-mov.MP4" width="400"></video>
 
 ---
 
@@ -56,7 +56,7 @@ paginate: true
 
 ![bg right width:110%](gaze-title.JPG)
 
-https://www.linkedin.com/posts/k%C4%B1van%C3%A7-tatar-09621262_aiart-generativeai-identityandperception-activity-7360604433321201665-bBdJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0zlvIBD7HWFlTIDwzd12v4Ojeg1987kM0
+<video controls src="gaze-mov.MP4" width="400"></video>
 
 ---
 
