@@ -30,6 +30,7 @@ paginate: true
 | **Project** |Project Proposal| Design Iterations | Final Prototype | Reflections |
 
 ---
+<!-- class: less_margin -->
 
 # Course Structure - Assessment
 
@@ -38,7 +39,8 @@ paginate: true
 | Assignment 1 |  The Pillars of an AI Artwork | Individual | 10% | a report on AI artwork from known artists| graded on coherency, and integration of literature |
 | Assignment 2 | Project Proposal |Group | 20% | a project proposal (written report and a presentation) for a new artwork| assessed by novelty, aesthetics, impact, and feasibility |
 | Assignment 3 | Design Iterations | Group | 25% | a report on project progress, tasks, and design toolkit utilization |assessed by integration of design literature, technology research and development, and feasibility |
-| Final Paper |  | | | |
+| Assignment 4 | | | |
+| Final Paper | Interventions Analysis of the Final Project | 30% |  | |
 
 
 

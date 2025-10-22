@@ -80,6 +80,15 @@ section.no_border{
   }
 }
 
+section.less_margin{
+  td {
+  font-size: 18px; /* Set the font size to 16 pixels */
+  font-weight: 400;
+  font-family: 'Space Mono', monospace;
+  margin: 0 !important;
+  }
+}
+
 section.titlepage .title {
   border-bottom: 1px solid rgb(255, 217, 0);
 }
