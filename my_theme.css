@@ -81,8 +81,11 @@ section.no_border{
 }
 
 section.less_margin{
+  th {
+  font-size: 13px; /* Set the font size to 16 pixels */
+  }
   td {
-  font-size: 18px; /* Set the font size to 16 pixels */
+  font-size: 12px; /* Set the font size to 16 pixels */
   font-weight: 400;
   font-family: 'Space Mono', monospace;
   margin: 0 !important;

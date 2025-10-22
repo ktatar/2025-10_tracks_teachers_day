@@ -34,13 +34,13 @@ paginate: true
 
 # Course Structure - Assessment
 
-|   | Title  | Individual vs. Group | Grade | Notes | Assessment |
+|  | Title  | Individual vs. Group | Grade | Notes | Assessment |
 |:---:|---|---|---|---|---|
-| Assignment 1 |  The Pillars of an AI Artwork | Individual | 10% | a report on AI artwork from known artists| graded on coherency, and integration of literature |
-| Assignment 2 | Project Proposal |Group | 20% | a project proposal (written report and a presentation) for a new artwork| assessed by novelty, aesthetics, impact, and feasibility |
-| Assignment 3 | Design Iterations | Group | 25% | a report on project progress, tasks, and design toolkit utilization |assessed by integration of design literature, technology research and development, and feasibility |
-| Assignment 4 | | | |
-| Final Paper | Interventions Analysis of the Final Project | 30% |  | |
+| **Assignment 1** |  The Pillars of an AI Artwork | Individual | 10% | a report on AI artwork from known artists| graded on coherency, and integration of literature |
+| **Assignment 2** | Project Proposal |Group | 20% | a project proposal (written report and a presentation) for a new artwork| assessed by novelty, aesthetics, impact, and feasibility |
+| **Assignment 3** | Design Iterations | Group | 25% | a report on project progress, tasks, and design toolkit utilization |assessed by integration of design literature, technology research and development, and feasibility |
+| **Assignment 4** | Documentation | Group | 15% | audio, video, and technical documentation of the made artwork |aesthetics, artwork production quality, and documentation quality |
+| **Final Paper** | Interventions Analysis of the Final Project | Individual |30% | an academic report about societal implications of the made artwork, analyzed  using *Interventions* research method | assessed by coherency, integration of literature, critical analysis |
 
 
 
