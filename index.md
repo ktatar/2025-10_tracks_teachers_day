@@ -21,13 +21,26 @@ paginate: true
 
 ---
 
-# Course Structure 
+# Course Structure  - Activities
 
 | Activities  |  |  | | |
 |:---|---|---|---|---|
 | **Lectures** | Introduction to Art and Technology | Introduction to AI and ML | Creativity, Group work, and Tools for Innovation |
 | **Tutorials** | Creative Coding with Sound (PureData) | Multimedia Design with TouchDesigner | Deep Learning for Multimedia | Interactive ML with Physical Computing |
 | **Project** |Project Proposal| Design Iterations | Final Prototype | Reflections |
+
+---
+
+# Course Structure - Assessment
+
+|   | Title  | Individual vs. Group | Grade | Notes | Assessment |
+|:---:|---|---|---|---|---|
+| Assignment 1 |  The Pillars of an AI Artwork | Individual | 10% | a report on AI artwork from known artists| graded on coherency, and integration of literature |
+| Assignment 2 | Project Proposal |Group | 20% | a project proposal (written report and a presentation) for a new artwork| assessed by novelty, aesthetics, impact, and feasibility |
+| Assignment 3 | | | |
+| Final Paper |
+
+
 
 ---
 
@@ -236,6 +249,4 @@ a course that made my exchange semester more meaningful!*
 
 ---
 
-# Thank You!
-
-## Questions?
+# Thank You!
