@@ -37,8 +37,8 @@ paginate: true
 |:---:|---|---|---|---|---|
 | Assignment 1 |  The Pillars of an AI Artwork | Individual | 10% | a report on AI artwork from known artists| graded on coherency, and integration of literature |
 | Assignment 2 | Project Proposal |Group | 20% | a project proposal (written report and a presentation) for a new artwork| assessed by novelty, aesthetics, impact, and feasibility |
-| Assignment 3 | | | |
-| Final Paper |
+| Assignment 3 | Design Iterations | Group | 25% | a report on project progress, tasks, and design toolkit utilization |assessed by integration of design literature, technology research and development, and feasibility |
+| Final Paper |  | | | |
 
 
 
@@ -249,4 +249,6 @@ a course that made my exchange semester more meaningful!*
 
 ---
 
-# Thank You!
+# Thank You!
+
+## Questions?
