@@ -5,6 +5,7 @@ math: katex
 paginate: true
 
 ---
+<!-- footer: <small><i style="font-size: 8pt;font-weight:500;color:black">AI in Computational Arts, Music, and Games </small></i> <p> &nbsp;  ![width:150](chalmers.png)</p> -->
 <!-- _color: black -->
 
 # TRA 385 Machine Learning and AI through Artistic Innovation
@@ -53,7 +54,7 @@ paginate: true
 
 ## Gaze (2025)
 
-![bg right width:110%](gaze-title.JPG)
+![bg right width:110%](gaze-title.jpg)
 
 <video controls src="gaze-mov.mp4" width="400"></video>
 
